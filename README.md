@@ -13,17 +13,33 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Jabir Chowdhury</h1>
-<h3 align="center">A passionate backend/full-stack developer</h3>
+<div align='center'>
+  
+<h3>
+    <samp>
+        <strong>@JabirC</strong> 👋
+    </samp>
+</h3>
+<p>
+    <samp>
+        Hands-on <strong>Software Engineer</strong>, BSc graduate in <strong><a href="https://www.hunter.cuny.edu/csci">Computer Science</a></strong>, <br>
+        experienced in backend development in <strong><a href="https://www.python.org">Python</a></strong>,
+        <strong><a href="https://dev.java">Java</a></strong>,
+        <strong><a href="https://www.javascript.com">Javascript</a></strong>,<br> and interested in gaining knowledge on
+        <strong><a href="https://www.oreilly.com/library/view/designing-distributed-systems/9781491983638">Distributed Systems</a></strong>.<br>
+    </samp>
+</p>
 
-- 🔭 I’m currently working on [AdventChess](https://advent-chess.vercel.app)
+<br>
 
-- 🌱 I’m currently learning distributed systems and systems design!
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<samp align="center">Connect with me: </samp>
+<p align="center">
 <a href="https://linkedin.com/in/jabirc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jabirc" height="30" width="40" /></a>
 </p>
+
+</div>
+
+<br>
 
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jabirc&show_icons=true&locale=en&layout=compact" alt="jabirc" /></p>
