@@ -25,10 +25,10 @@ Here are some ideas to get you started:
         Hands-on <strong>Software Engineer</strong>, BSc graduate in <strong><a href="https://www.hunter.cuny.edu/csci">Computer Science</a></strong>, <br>
         experienced in backend development in <strong><a href="https://www.python.org">Python</a></strong>,
         <strong><a href="https://dev.java">Java</a></strong>,
-        <strong><a href="https://www.javascript.com">Javascript</a></strong>,<br> <br>
+        <strong><a href="https://www.javascript.com">Javascript</a></strong>,<br>
         experienced in frontend development in <strong><a href="https://react.dev">React</a></strong>,
         <strong><a href="https://angular.io">Angular</a></strong>,
-        <strong><a href="https://www.javascript.com">Javascript</a></strong>,<br> and interested in gaining knowledge on
+        <strong><a href="https://www.typescriptlang.org">Typescript</a></strong>,<br> and interested in gaining knowledge on
         <strong><a href="https://www.oreilly.com/library/view/designing-distributed-systems/9781491983638">Distributed Systems</a></strong>.<br>
     </samp>
 </p>
