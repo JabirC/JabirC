@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </h3>
 <p>
     <samp>
-        Hands-on <strong>Software Engineer</strong>, BSc graduate in <strong><a href="https://www.hunter.cuny.edu/csci">Computer Science</a></strong>, <br>
+        Hands-on <strong>Software Engineer</strong>, Bachelors in <strong><a href="https://www.hunter.cuny.edu/csci">Computer Science</a></strong>, <br>
         experienced in backend development in <strong><a href="https://www.python.org">Python</a></strong>,
         <strong><a href="https://dev.java">Java</a></strong>,
         <strong><a href="https://www.javascript.com">Javascript</a></strong>,<br>
